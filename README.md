@@ -43,6 +43,4 @@ Code does not have trailing white spaces. Indentation is consistent (either all 
 
 Code uses meaningful or generic ID and class names that are as short as possible but as long as necessary. Code does not use element names in conjunction with IDs or classes. Code uses shorthand properties where possible. [Optional] Code omits unit specification after 0 values. [Optional] Code includes leading 0s in decimal values for readability. [Optional] Code uses 3-character hexadecimal notation where possible. [Optional] Code separate words in ID and class names by a hyphen. *[Optional] Code avoids user agent detection as well as CSS "hacks"—try a different approach first. General Meta Rules
 
-HTML templates and documents use UTF-8 encoding. (no BOM) i.e. . [Optional] Mark todos and action items with TODO My design choices and notes Given the guideline of the rubric, I have made the following choices in designing this website:
-
 Use CSS without a framework such as Bootstrap. ( I am already quite familiar with Bootstrap and I want to learn another method. Particularly CSS GRID ). I used some CSS grid and some CSS flexbox. Both were kind of tricky to get to work the way I wanted. I think I like grid better of the two after completing this project. But I still much prefer Bootstrap, but realize how much trimmed down the html was for this project without using bootstrap.
